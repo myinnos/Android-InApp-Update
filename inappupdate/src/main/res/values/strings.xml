@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="in_app_snack_bar_message">Update almost finished!</string>
+    <string name="in_app_snack_bar_action_title">RESTART</string>
+
+</resources>
