@@ -1,5 +1,5 @@
 # Android-InApp-Update
-InApp update library for Android
+InApp update library for Android, In-app update is a library a new request flow to prompt active users to update your app.
 
 In-app updates works only with devices running Android 5.0 (API level 21) or higher, and requires you to use Play Core library 1.5.0 or higher. Additionally, in-app updates support apps running on only Android mobile devices and tablets, and Chrome OS devices.
   
