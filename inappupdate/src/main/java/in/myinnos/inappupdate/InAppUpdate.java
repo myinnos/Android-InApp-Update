@@ -62,7 +62,7 @@ public class InAppUpdate {
                         });
     }
 
-    public static void setFlexibleUpdate(AppUpdateManager appUpdateManager, String note, Activity activity) {
+    public static void setFlexibleUpdate(AppUpdateManager appUpdateManager, Activity activity) {
 
         InstallStateUpdatedListener installStateUpdatedListener = installState -> {
             if (installState.installStatus() == InstallStatus.DOWNLOADED) {
