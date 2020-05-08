@@ -18,7 +18,7 @@ And then in the other gradle file(may be your app gradle or your own module libr
 ```java
 dependencies {
     ...
-    implementation 'com.github.myinnos:Android-InApp-Update:BETA-0.1'	  
+    implementation 'com.github.myinnos:Android-InApp-Update:BETA-0.2'	  
     implementation 'com.google.android.play:core:1.7.2' //to initiate AppUpdateManager
 }
 ```          
