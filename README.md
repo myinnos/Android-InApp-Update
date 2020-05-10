@@ -92,7 +92,7 @@ A user experience that provides background download and installation with gracef
 License
 -------
 
-    Copyright 2017 MyInnos
+    Copyright 2020 MyInnos
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
