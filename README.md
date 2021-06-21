@@ -18,7 +18,7 @@ And then in the other gradle file(may be your app gradle or your own module libr
 ```java
 dependencies {
     ...
-    implementation 'com.github.myinnos:Android-InApp-Update:BETA-0.1'	  
+    implementation 'com.github.myinnos:Android-InApp-Update:BETA-0.2'	  
     implementation 'com.google.android.play:core:1.7.2' //to initiate AppUpdateManager
 }
 ```          
@@ -92,7 +92,7 @@ A user experience that provides background download and installation with gracef
 License
 -------
 
-    Copyright 2017 MyInnos
+    Copyright 2020 MyInnos
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
